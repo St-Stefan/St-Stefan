@@ -3,7 +3,7 @@
 -->
 
 ### 🔭 I’m currently working on:
-  - Rasterized OpenGL Tech Demo
+  - Tribbler's TrustChain Super App (Digital Euro)
   - Microservice-based Game Curation Platform
 
 ### 
