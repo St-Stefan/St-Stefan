@@ -4,7 +4,7 @@
 
 ### 🔭 I’m currently working on:
   - Tribbler's TrustChain Super App (Digital Euro)
-  - Microservice-based Game Curation Platform
+  - ModelFuzz for Apache Cassandra's Accord PSMR
 
 ### 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
